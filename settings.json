@@ -18,7 +18,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "CHANGE_ME"
+      "password": "bot"
     },
     "anti-afk": {
       "enabled": true,
