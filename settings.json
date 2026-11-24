@@ -5,8 +5,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ip.aternos.me",
-    "port": 00000,
+    "ip": "vanillamc104-1UfI.aternos.me:57881",
+    "port": 57881,
     "try-creative": false
   },
   "position": {
