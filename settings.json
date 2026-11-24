@@ -73,6 +73,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YOUR_MINECRAFT_USERNAME"]
+    "tpWhitelist": ["bocachuco"]
   }
 }
